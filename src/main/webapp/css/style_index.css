@@ -1,0 +1,89 @@
+/* 全体のフォント設定 */
+body {
+    font-family: "Reggae One", system-ui;
+    margin: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* ヘッダーのスタイル */
+header {
+    background-color: #4A90E2;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+/* メインコンテンツのスタイル */
+main {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding-top: 80px; /* ヘッダーの高さ分調整 */
+    box-sizing: border-box;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.features-container {
+    display: flex; /* 横並びに配置 */
+    align-items: flex-start; /* 上部を揃える */
+    gap: 20px; /* テキストと画像の間のスペース */
+    margin-top: 20px;
+}
+
+
+.features-image {
+    width: 150px; /* 画像の幅を調整 */
+    height: auto; /* アスペクト比を保持 */
+    border-radius: 8px; /* 必要に応じて角を丸く */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 影を追加（オプション） */
+}
+
+form label {
+    font-size: 1rem;
+    display: block;
+    margin-bottom: 10px;
+}
+
+form input[type="text"] {
+	font-family: "Reggae One", system-ui;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+form input[type="submit"] {
+	font-family: "Reggae One", system-ui;
+    background-color: #4A90E2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+form input[type="submit"]:hover {
+	font-family: "Reggae One", system-ui;
+    background-color: #357ABD;
+}

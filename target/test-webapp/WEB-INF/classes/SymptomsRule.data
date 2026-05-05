@@ -1,0 +1,992 @@
+if "卵"
+then "卵 cause 腹痛"
+
+if "卵"
+then "卵 cause 下痢"
+
+if "卵"
+then "卵 cause 吐き気・嘔吐"
+
+if "卵"
+then "卵 cause 胃痙攣"
+
+if "卵"
+then "卵 cause かゆみ・じんましん・湿疹"
+
+if "卵"
+then "卵 cause 喘鳴・息切れ"
+
+if "卵"
+then "卵 cause 鼻づまり"
+
+if "卵"
+then "卵 cause 咳"
+
+if "卵"
+then "卵 cause 喉の狭窄・嚥下困難"
+
+if "卵"
+then "卵 cause めまい・立ちくらみ"
+
+if "卵"
+then "卵 cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "牛乳"
+then "牛乳 cause 腹痛"
+
+if "牛乳"
+then "牛乳 cause 下痢"
+
+if "牛乳"
+then "牛乳 cause 吐き気・嘔吐"
+
+if "牛乳"
+then "牛乳 cause 胃痙攣"
+
+if "牛乳"
+then "牛乳 cause 血便"
+
+if "牛乳"
+then "牛乳 cause かゆみ・じんましん・湿疹"
+
+if "牛乳"
+then "牛乳 cause 喘鳴・息切れ"
+
+if "牛乳"
+then "牛乳 cause 鼻づまり"
+
+if "牛乳"
+then "牛乳 cause 咳"
+
+if "牛乳"
+then "牛乳 cause 喉の狭窄・嚥下困難"
+
+if "牛乳"
+then "牛乳 cause めまい・立ちくらみ"
+
+if "牛乳"
+then "牛乳 cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "小麦"
+then "小麦 cause 腹痛"
+
+if "小麦"
+then "小麦 cause 下痢"
+
+if "小麦"
+then "小麦 cause 吐き気・嘔吐"
+
+if "小麦"
+then "小麦 cause 胃痙攣"
+
+if "小麦"
+then "小麦 cause かゆみ・じんましん・湿疹"
+
+if "小麦"
+then "小麦 cause 喘鳴・息切れ"
+
+if "小麦"
+then "小麦 cause 鼻づまり"
+
+if "小麦"
+then "小麦 cause 咳"
+
+if "小麦"
+then "小麦 cause 喉の狭窄・嚥下困難"
+
+if "小麦"
+then "小麦 cause めまい・立ちくらみ"
+
+if "小麦"
+then "小麦 cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "そば"
+then "そば cause 腹痛"
+
+if "そば"
+then "そば cause 下痢"
+
+if "そば"
+then "そば cause 吐き気・嘔吐"
+
+if "そば"
+then "そば cause 胃痙攣"
+
+if "そば"
+then "そば cause かゆみ・じんましん・湿疹"
+
+if "そば"
+then "そば cause 喘鳴・息切れ"
+
+if "そば"
+then "そば cause 鼻づまり"
+
+if "そば"
+then "そば cause 咳"
+
+if "そば"
+then "そば cause 喉の狭窄・嚥下困難"
+
+if "そば"
+then "そば cause めまい・立ちくらみ"
+
+if "そば"
+then "そば cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "そば"
+then "そば cause 口唇／口／舌／喉の腫れ"
+
+if "落花生"
+then "落花生 cause 吐き気・嘔吐"
+
+if "落花生"
+then "落花生 cause 胃痙攣"
+
+if "落花生"
+then "落花生 cause かゆみ・じんましん・湿疹"
+
+if "落花生"
+then "落花生 cause 喘鳴・息切れ"
+
+if "落花生"
+then "落花生 cause 咳"
+
+if "落花生"
+then "落花生 cause 喉の狭窄・嚥下困難"
+
+if "落花生"
+then "落花生 cause めまい・立ちくらみ"
+
+if "落花生"
+then "落花生 cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "落花生"
+then "落花生 cause 口唇／口／舌／喉の腫れ"
+
+if "えび"
+then "えび cause 腹痛"
+
+if "えび"
+then "えび cause 下痢"
+
+if "えび"
+then "えび cause 吐き気・嘔吐"
+
+if "えび"
+then "えび cause 胃痙攣"
+
+if "えび"
+then "えび cause かゆみ・じんましん・湿疹"
+
+if "えび"
+then "えび cause 喘鳴・息切れ"
+
+if "えび"
+then "えび cause 鼻づまり"
+
+if "えび"
+then "えび cause 咳"
+
+if "えび"
+then "えび cause 喉の狭窄・嚥下困難"
+
+if "えび"
+then "えび cause めまい・立ちくらみ"
+
+if "えび"
+then "えび cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "かに"
+then "かに cause 腹痛"
+
+if "かに"
+then "かに cause 下痢"
+
+if "かに"
+then "かに cause 吐き気・嘔吐"
+
+if "かに"
+then "かに cause 胃痙攣"
+
+if "かに"
+then "かに cause かゆみ・じんましん・湿疹"
+
+if "かに"
+then "かに cause 喘鳴・息切れ"
+
+if "かに"
+then "かに cause 鼻づまり"
+
+if "かに"
+then "かに cause 咳"
+
+if "かに"
+then "かに cause 喉の狭窄・嚥下困難"
+
+if "かに"
+then "かに cause めまい・立ちくらみ"
+
+if "かに"
+then "かに cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "アーモンド"
+then "アーモンド cause 腹痛"
+
+if "アーモンド"
+then "アーモンド cause 吐き気・嘔吐"
+
+if "アーモンド"
+then "アーモンド cause 胃痙攣"
+
+if "アーモンド"
+then "アーモンド cause かゆみ・じんましん・湿疹"
+
+if "アーモンド"
+then "アーモンド cause 喘鳴・息切れ"
+
+if "アーモンド"
+then "アーモンド cause 鼻づまり"
+
+if "アーモンド"
+then "アーモンド cause 喉の狭窄・嚥下困難"
+
+if "アーモンド"
+then "アーモンド cause めまい・立ちくらみ"
+
+if "アーモンド"
+then "アーモンド cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "アーモンド"
+then "アーモンド cause 口唇／口／舌／喉の腫れ"
+
+if "あわび"
+then "あわび cause 腹痛"
+
+if "あわび"
+then "あわび cause 下痢"
+
+if "あわび"
+then "あわび cause 吐き気・嘔吐"
+
+if "あわび"
+then "あわび cause 胃痙攣"
+
+if "あわび"
+then "あわび cause かゆみ・じんましん・湿疹"
+
+if "あわび"
+then "あわび cause 喘鳴・息切れ"
+
+if "あわび"
+then "あわび cause 鼻づまり"
+
+if "あわび"
+then "あわび cause 咳"
+
+if "あわび"
+then "あわび cause 喉の狭窄・嚥下困難"
+
+if "あわび"
+then "あわび cause めまい・立ちくらみ"
+
+if "あわび"
+then "あわび cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "いか"
+then "いか cause 腹痛"
+
+if "いか"
+then "いか cause 下痢"
+
+if "いか"
+then "いか cause 吐き気・嘔吐"
+
+if "いか"
+then "いか cause 胃痙攣"
+
+if "いか"
+then "いか cause かゆみ・じんましん・湿疹"
+
+if "いか"
+then "いか cause 喘鳴・息切れ"
+
+if "いか"
+then "いか cause 鼻づまり"
+
+if "いか"
+then "いか cause 咳"
+
+if "いか"
+then "いか cause 喉の狭窄・嚥下困難"
+
+if "いか"
+then "いか cause めまい・立ちくらみ"
+
+if "いか"
+then "いか cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "いくら"
+then "いくら cause 腹痛"
+
+if "いくら"
+then "いくら cause 下痢"
+
+if "いくら"
+then "いくら cause 吐き気・嘔吐"
+
+if "いくら"
+then "いくら cause 胃痙攣"
+
+if "いくら"
+then "いくら cause かゆみ・じんましん・湿疹"
+
+if "いくら"
+then "いくら cause 結膜炎"
+
+if "いくら"
+then "いくら cause 喘鳴・息切れ"
+
+if "いくら"
+then "いくら cause 鼻づまり"
+
+if "いくら"
+then "いくら cause 咳"
+
+if "いくら"
+then "いくら cause 喉の狭窄・嚥下困難"
+
+if "いくら"
+then "いくら cause めまい・立ちくらみ"
+
+if "いくら"
+then "いくら cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "みかん"
+then "みかん cause 腹痛"
+
+if "みかん"
+then "みかん cause 下痢"
+
+if "みかん"
+then "みかん cause 吐き気・嘔吐"
+
+if "みかん"
+then "みかん cause 胃痙攣"
+
+if "みかん"
+then "みかん cause かゆみ・じんましん・湿疹"
+
+if "みかん"
+then "みかん cause 喘鳴・息切れ"
+
+if "みかん"
+then "みかん cause 鼻づまり"
+
+if "みかん"
+then "みかん cause 咳"
+
+if "みかん"
+then "みかん cause 喉の狭窄・嚥下困難"
+
+if "みかん"
+then "みかん cause めまい・立ちくらみ"
+
+if "みかん"
+then "みかん cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "みかん"
+then "みかん cause 口唇／口／舌／喉の腫れ"
+
+if "カシューナッツ"
+then "カシューナッツ cause 腹痛"
+
+if "カシューナッツ"
+then "カシューナッツ cause 下痢"
+
+if "カシューナッツ"
+then "カシューナッツ cause 吐き気・嘔吐"
+
+if "カシューナッツ"
+then "カシューナッツ cause 胃痙攣"
+
+if "カシューナッツ"
+then "カシューナッツ cause かゆみ・じんましん・湿疹"
+
+if "カシューナッツ"
+then "カシューナッツ cause 喘鳴・息切れ"
+
+if "カシューナッツ"
+then "カシューナッツ cause 鼻づまり"
+
+if "カシューナッツ"
+then "カシューナッツ cause 喉の狭窄・嚥下困難"
+
+if "カシューナッツ"
+then "カシューナッツ cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "カシューナッツ"
+then "カシューナッツ cause 口唇／口／舌／喉の腫れ"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause 腹痛"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause 下痢"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause 吐き気・嘔吐"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause 胃痙攣"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause かゆみ・じんましん・湿疹"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause 喘鳴・息切れ"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause 鼻づまり"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause 咳"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause 喉の狭窄・嚥下困難"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause めまい・立ちくらみ"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "キウイフルーツ"
+then "キウイフルーツ cause 口唇／口／舌／喉の腫れ"
+
+if "牛肉"
+then "牛肉 cause 腹痛"
+
+if "牛肉"
+then "牛肉 cause 下痢"
+
+if "牛肉"
+then "牛肉 cause 吐き気・嘔吐"
+
+if "牛肉"
+then "牛肉 cause かゆみ・じんましん・湿疹"
+
+if "牛肉"
+then "牛肉 cause 喘鳴・息切れ"
+
+if "牛肉"
+then "牛肉 cause 鼻づまり"
+
+if "牛肉"
+then "牛肉 cause 喉の狭窄・嚥下困難"
+
+if "牛肉"
+then "牛肉 cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "牛肉"
+then "牛肉 cause 口唇／口／舌／喉の腫れ"
+
+if "牛肉"
+then "牛肉 cause 頭痛"
+
+if "くるみ"
+then "くるみ cause 腹痛"
+
+if "くるみ"
+then "くるみ cause 下痢"
+
+if "くるみ"
+then "くるみ cause 吐き気・嘔吐"
+
+if "くるみ"
+then "くるみ cause 胃痙攣"
+
+if "くるみ"
+then "くるみ cause かゆみ・じんましん・湿疹"
+
+if "くるみ"
+then "くるみ cause 喘鳴・息切れ"
+
+if "くるみ"
+then "くるみ cause 鼻づまり"
+
+if "くるみ"
+then "くるみ cause 喉の狭窄・嚥下困難"
+
+if "くるみ"
+then "くるみ cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "くるみ"
+then "くるみ cause 口唇／口／舌／喉の腫れ"
+
+if "ごま"
+then "ごま cause 腹痛"
+
+if "ごま"
+then "ごま cause 下痢"
+
+if "ごま"
+then "ごま cause 吐き気・嘔吐"
+
+if "ごま"
+then "ごま cause 胃痙攣"
+
+if "ごま"
+then "ごま cause かゆみ・じんましん・湿疹"
+
+if "ごま"
+then "ごま cause 喘鳴・息切れ"
+
+if "ごま"
+then "ごま cause 鼻づまり"
+
+if "ごま"
+then "ごま cause 咳"
+
+if "ごま"
+then "ごま cause 喉の狭窄・嚥下困難"
+
+if "ごま"
+then "ごま cause めまい・立ちくらみ"
+
+if "ごま"
+then "ごま cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "さけ"
+then "さけ cause 腹痛"
+
+if "さけ"
+then "さけ cause 下痢"
+
+if "さけ"
+then "さけ cause 吐き気・嘔吐"
+
+if "さけ"
+then "さけ cause 胃痙攣"
+
+if "さけ"
+then "さけ cause かゆみ・じんましん・湿疹"
+
+if "さけ"
+then "さけ cause 結膜炎"
+
+if "さけ"
+then "さけ cause 喘鳴・息切れ"
+
+if "さけ"
+then "さけ cause 鼻づまり"
+
+if "さけ"
+then "さけ cause 咳"
+
+if "さけ"
+then "さけ cause 喉の狭窄・嚥下困難"
+
+if "さけ"
+then "さけ cause めまい・立ちくらみ"
+
+if "さけ"
+then "さけ cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "さば"
+then "さば cause 腹痛"
+
+if "さば"
+then "さば cause 下痢"
+
+if "さば"
+then "さば cause 吐き気・嘔吐"
+
+if "さば"
+then "さば cause 胃痙攣"
+
+if "さば"
+then "さば cause かゆみ・じんましん・湿疹"
+
+if "さば"
+then "さば cause 結膜炎"
+
+if "さば"
+then "さば cause 喘鳴・息切れ"
+
+if "さば"
+then "さば cause 鼻づまり"
+
+if "さば"
+then "さば cause 咳"
+
+if "さば"
+then "さば cause 喉の狭窄・嚥下困難"
+
+if "さば"
+then "さば cause めまい・立ちくらみ"
+
+if "さば"
+then "さば cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "大豆"
+then "大豆 cause 腹痛"
+
+if "大豆"
+then "大豆 cause 下痢"
+
+if "大豆"
+then "大豆 cause 吐き気・嘔吐"
+
+if "大豆"
+then "大豆 cause 胃痙攣"
+
+if "大豆"
+then "大豆 cause かゆみ・じんましん・湿疹"
+
+if "大豆"
+then "大豆 cause 喘鳴・息切れ"
+
+if "大豆"
+then "大豆 cause 鼻づまり"
+
+if "大豆"
+then "大豆 cause 咳"
+
+if "大豆"
+then "大豆 cause 喉の狭窄・嚥下困難"
+
+if "大豆"
+then "大豆 cause めまい・立ちくらみ"
+
+if "大豆"
+then "大豆 cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "大豆"
+then "大豆 cause 口唇／口／舌／喉の腫れ"
+
+if "鶏肉"
+then "鶏肉 cause 腹痛"
+
+if "鶏肉"
+then "鶏肉 cause 下痢"
+
+if "鶏肉"
+then "鶏肉 cause 吐き気・嘔吐"
+
+if "鶏肉"
+then "鶏肉 cause かゆみ・じんましん・湿疹"
+
+if "鶏肉"
+then "鶏肉 cause 喘鳴・息切れ"
+
+if "鶏肉"
+then "鶏肉 cause 鼻づまり"
+
+if "鶏肉"
+then "鶏肉 cause 喉の狭窄・嚥下困難"
+
+if "鶏肉"
+then "鶏肉 cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "鶏肉"
+then "鶏肉 cause 口唇／口／舌／喉の腫れ"
+
+if "鶏肉"
+then "鶏肉 cause 頭痛"
+
+if "バナナ"
+then "バナナ cause 腹痛"
+
+if "バナナ"
+then "バナナ cause 下痢"
+
+if "バナナ"
+then "バナナ cause 吐き気・嘔吐"
+
+if "バナナ"
+then "バナナ cause 胃痙攣"
+
+if "バナナ"
+then "バナナ cause かゆみ・じんましん・湿疹"
+
+if "バナナ"
+then "バナナ cause 喘鳴・息切れ"
+
+if "バナナ"
+then "バナナ cause 鼻づまり"
+
+if "バナナ"
+then "バナナ cause 咳"
+
+if "バナナ"
+then "バナナ cause 喉の狭窄・嚥下困難"
+
+if "バナナ"
+then "バナナ cause めまい・立ちくらみ"
+
+if "バナナ"
+then "バナナ cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "バナナ"
+then "バナナ cause 口唇／口／舌／喉の腫れ"
+
+if "豚肉"
+then "豚肉 cause 腹痛"
+
+if "豚肉"
+then "豚肉 cause 下痢"
+
+if "豚肉"
+then "豚肉 cause 吐き気・嘔吐"
+
+if "豚肉"
+then "豚肉 cause かゆみ・じんましん・湿疹"
+
+if "豚肉"
+then "豚肉 cause 喘鳴・息切れ"
+
+if "豚肉"
+then "豚肉 cause 鼻づまり"
+
+if "豚肉"
+then "豚肉 cause 喉の狭窄・嚥下困難"
+
+if "豚肉"
+then "豚肉 cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "豚肉"
+then "豚肉 cause 口唇／口／舌／喉の腫れ"
+
+if "豚肉"
+then "豚肉 cause 頭痛"
+
+if "マカデミアナッツ"
+then "マカデミアナッツ cause 腹痛"
+
+if "マカデミアナッツ"
+then "マカデミアナッツ cause 下痢"
+
+if "マカデミアナッツ"
+then "マカデミアナッツ cause 吐き気・嘔吐"
+
+if "マカデミアナッツ"
+then "マカデミアナッツ cause 胃痙攣"
+
+if "マカデミアナッツ"
+then "マカデミアナッツ cause かゆみ・じんましん・湿疹"
+
+if "マカデミアナッツ"
+then "マカデミアナッツ cause 喘鳴・息切れ"
+
+if "マカデミアナッツ"
+then "マカデミアナッツ cause 鼻づまり"
+
+if "マカデミアナッツ"
+then "マカデミアナッツ cause 喉の狭窄・嚥下困難"
+
+if "マカデミアナッツ"
+then "マカデミアナッツ cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "桃"
+then "桃 cause 腹痛"
+
+if "桃"
+then "桃 cause 下痢"
+
+if "桃"
+then "桃 cause 吐き気・嘔吐"
+
+if "桃"
+then "桃 cause 胃痙攣"
+
+if "桃"
+then "桃 cause かゆみ・じんましん・湿疹"
+
+if "桃"
+then "桃 cause 喘鳴・息切れ"
+
+if "桃"
+then "桃 cause 鼻づまり"
+
+if "桃"
+then "桃 cause 咳"
+
+if "桃"
+then "桃 cause 喉の狭窄・嚥下困難"
+
+if "桃"
+then "桃 cause めまい・立ちくらみ"
+
+if "桃"
+then "桃 cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "桃"
+then "桃 cause 口唇／口／舌／喉の腫れ"
+
+if "やまいも"
+then "やまいも cause 腹痛"
+
+if "やまいも"
+then "やまいも cause 下痢"
+
+if "やまいも"
+then "やまいも cause 吐き気・嘔吐"
+
+if "やまいも"
+then "やまいも cause 胃痙攣"
+
+if "やまいも"
+then "やまいも cause かゆみ・じんましん・湿疹"
+
+if "やまいも"
+then "やまいも cause 喘鳴・息切れ"
+
+if "やまいも"
+then "やまいも cause 鼻づまり"
+
+if "やまいも"
+then "やまいも cause 喉の狭窄・嚥下困難"
+
+if "やまいも"
+then "やまいも cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "りんご"
+then "りんご cause 腹痛"
+
+if "りんご"
+then "りんご cause 下痢"
+
+if "りんご"
+then "りんご cause 吐き気・嘔吐"
+
+if "りんご"
+then "りんご cause 胃痙攣"
+
+if "りんご"
+then "りんご cause かゆみ・じんましん・湿疹"
+
+if "りんご"
+then "りんご cause 喘鳴・息切れ"
+
+if "りんご"
+then "りんご cause 鼻づまり"
+
+if "りんご"
+then "りんご cause 咳"
+
+if "りんご"
+then "りんご cause 喉の狭窄・嚥下困難"
+
+if "りんご"
+then "りんご cause めまい・立ちくらみ"
+
+if "りんご"
+then "りんご cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "りんご"
+then "りんご cause 口唇／口／舌／喉の腫れ"
+
+if "ゼラチン"
+then "ゼラチン cause 腹痛"
+
+if "ゼラチン"
+then "ゼラチン cause 下痢"
+
+if "ゼラチン"
+then "ゼラチン cause 吐き気・嘔吐"
+
+if "ゼラチン"
+then "ゼラチン cause 胃痙攣"
+
+if "ゼラチン"
+then "ゼラチン cause かゆみ・じんましん・湿疹"
+
+if "ゼラチン"
+then "ゼラチン cause 喘鳴・息切れ"
+
+if "ゼラチン"
+then "ゼラチン cause 喉の狭窄・嚥下困難"
+
+if "ゼラチン"
+then "ゼラチン cause 失神・微弱な脈拍・アナフィラキシーショック"
+
+if "?x cause 腹痛"
+then "軽度の場合、内服薬を飲んで安静にする"
+
+if "?x cause 腹痛"
+then "中等度の場合、内服薬を飲んでエピペンを準備し、速やかに医療機関を受診"
+
+if "?x cause 腹痛"
+then "我慢できない痛みがある場合、ただちにエピペンを使用し救急車を呼ぶ"
+
+if "?x cause 下痢"
+then "1～2回の下痢の場合、内服薬を飲んでエピペンを準備し、速やかに医療機関を受診"
+
+if "?x cause 吐き気・嘔吐"
+then "吐き気のみの場合、内服薬を飲んで安静にする"
+
+if "?x cause 吐き気・嘔吐"
+then "1～2回の嘔吐の場合、内服薬を飲んでエピペンを準備し、速やかに医療機関を受診"
+
+if "?x cause 吐き気・嘔吐"
+then "繰り返し吐き続ける場合、ただちにエピペンを使用し救急車を呼ぶ"
+
+if "?x cause 胃痙攣"
+then "カフェインやアルコール等の刺激物を避け、内服薬を飲んでエピペンを準備し、速やかに医療機関を受診"
+
+if "?x cause 血便"
+then "すみやかに医療機関を受診"
+
+if "?x cause かゆみ・じんましん・湿疹"
+then "抗ヒスタミン外用薬を服用する"
+
+if "?x cause かゆみ・じんましん・湿疹"
+then "皮膚の炎症を抑えるステロイド外用薬を服用する"
+
+if "?x cause かゆみ・じんましん・湿疹"
+then "患部を冷やす"
+
+if "?x cause かゆみ・じんましん・湿疹"
+then "強いかゆみの場合、エピペンを準備し、速やかに医療機関を受診する"
+
+if "?x cause 結膜炎"
+then "抗アレルギー点眼薬を使用する"
+
+if "?x cause 結膜炎"
+then "かゆみが強い場合、ステロイド点眼薬を使用する"
+
+if "?x cause 口唇／口／舌／喉の腫れ"
+then "すみやかに医療機関を受診する"
+
+if "?x cause 口唇／口／舌／喉の腫れ"
+then "花粉症を治療することで軽快することがある"
+
+if "?x cause 喘鳴・息切れ"
+then "ただちにエピペンを使用し救急車を呼ぶ"
+
+if "?x cause 鼻づまり"
+then "内服薬を服用する"
+
+if "?x cause 鼻づまり"
+then "鼻洗浄を行う"
+
+if "?x cause 咳"
+then "数回の軽い咳の場合、内服薬を飲んでエピペンを準備し、速やかに医療機関を受診"
+
+if "?x cause 頭痛"
+then "内服薬を飲んでエピペンを準備し、速やかに医療機関を受診"
+
+if "?x cause 喉の狭窄・嚥下困難"
+then "ただちにエピペンを使用し救急車を呼ぶ"
+
+if "?x cause めまい・立ちくらみ"
+then "その場で座るか横になり、安静にする"
+
+if "?x cause めまい・立ちくらみ"
+then "エピペンを準備しておく"
+
+if "?x cause めまい・立ちくらみ"
+then "医療機関を受診する"
+
+if "?x cause 失神・微弱な脈拍・アナフィラキシーショック"
+then "ただちにエピペンを使用し救急車を呼ぶ"

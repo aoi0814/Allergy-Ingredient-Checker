@@ -1,0 +1,107 @@
+/* 全体のフォント設定とレイアウト */
+body {
+    font-family: "Reggae One", system-ui;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* ヘッダーのスタイル */
+header {
+    background-color: #4A90E2;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+main {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding-top: 80px; /* ヘッダーの高さ分調整 */
+    box-sizing: border-box;
+}
+
+/* フォームのスタイル */
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* アレルギー食材の見出し */
+h2 {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+/* チェックボックスのスタイル */
+input[type="checkbox"] {
+    margin-right: 10px;
+    transform: scale(2); /* チェックボックスを大きく表示 */
+}
+
+/* ボタンスタイル */
+input[type="button"] {
+    background-color: #4A90E2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+input[type="button"]:hover {
+    background-color: #357ABD;
+}
+
+
+#image-frame {
+    text-align: center;
+}
+
+#dynamic-image {
+    width: 118px;
+    transition: border-color 0.3s ease;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center; /* 横並びにして中央揃え */
+    gap: 10px; /* ボタン間の間隔 */
+}
+
+.image-button {
+	font-family: "Reggae One", system-ui;
+    background-color: #4A90E2;
+    color: white;
+    border: none;
+    padding: 27px 21px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+

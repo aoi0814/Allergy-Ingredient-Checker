@@ -1,0 +1,13 @@
+com\example\service\FileManager.class
+com\example\servlet\SearchResultServlet.class
+com\example\service\SymptomsFinder.class
+com\example\servlet\MainServlet.class
+com\example\servlet\AlternativeServlet.class
+com\example\service\RuleBase.class
+com\example\service\Rule.class
+com\example\service\Matcher.class
+com\example\servlet\WebAppInitializer.class
+com\example\service\AllergyService.class
+com\example\service\Test.class
+com\example\servlet\SymptomsServlet.class
+com\example\service\ResourceUtil.class

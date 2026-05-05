@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "env: setup local tomcat",
+      "type": "shell",
+      "command": "powershell -ExecutionPolicy Bypass -File .\\scripts\\setup-tomcat.ps1",
+      "problemMatcher": []
+    },
+    {
+      "label": "mvn: clean package",
+      "type": "shell",
+      "command": "mvn clean package",
+      "group": "build",
+      "problemMatcher": ["$javac"]
+    },
+    {
+      "label": "app: deploy and start tomcat",
+      "type": "shell",
+      "command": "powershell -ExecutionPolicy Bypass -File .\\scripts\\run-tomcat.ps1",
+      "dependsOn": ["mvn: clean package"],
+      "problemMatcher": []
+    },
+    {
+      "label": "app: stop tomcat",
+      "type": "shell",
+      "command": "powershell -ExecutionPolicy Bypass -File .\\scripts\\stop-tomcat.ps1",
+      "problemMatcher": []
+    }
+  ]
+}

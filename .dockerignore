@@ -1,0 +1,14 @@
+.git
+.gitignore
+.settings
+.classpath
+.project
+.vscode
+build
+target
+.tools
+agent-tools
+agent-transcripts
+*.log
+terminals
+chromedriver.exe

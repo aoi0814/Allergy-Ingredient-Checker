@@ -1,0 +1,55 @@
+/* 全体のフォント設定 */
+body {
+    font-family: "Reggae One", system-ui;
+    margin: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* ヘッダーのスタイル */
+header {
+    background-color: #4A90E2;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+main {
+    height: 100vh;
+    padding-top: 120px; /* ヘッダーの高さ分調整 */
+    box-sizing: border-box;
+}
+
+/* alternative2のスタイル */
+.alternative2 {
+    color: black;            /* 黒文字 */
+    font-weight: bold;       /* 太文字 */
+    font-size: 1.5em;        /* 文字を少し大きく */
+    line-height: 1.6;        /* 行間を少し広げて見やすく */
+}
+
+
+form {
+    max-width: 300px;
+    margin: 0 auto; /* 中央寄せ */
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+p a {
+    font-size: 1.5rem; /* フォントサイズを変更 */
+}
+p {
+    font-size: 1.5rem; /* フォントサイズを変更 */
+}
