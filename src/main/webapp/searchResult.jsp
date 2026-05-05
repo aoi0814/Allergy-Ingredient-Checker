@@ -9,28 +9,28 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Reggae+One&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/style_searchResult.css">
+    <link rel="stylesheet" type="text/css" href="<c:url value='/css/style_searchResult.css'/>">
 
     
-    <script src="${pageContext.request.contextPath}/js/script_searchResult.js"></script>
+    <script src="<c:url value='/js/script_searchResult.js'/>"></script>
     <script>
     
 
     function changeImage1(imageName) {
         const image = document.getElementById('dynamic-image');
-        image.src = '${pageContext.request.contextPath}/images/left.png';
+        image.src = '<c:url value="/images/left.png"/>';
         image.style.borderColor = "#ccc"; // ホバー時の枠線色
     }
 
     function changeImage2(imageName) {
         const image = document.getElementById('dynamic-image');
-        image.src = '${pageContext.request.contextPath}/images/light.png';
+        image.src = '<c:url value="/images/light.png"/>';
         image.style.borderColor = "#ccc"; // ホバー時の枠線色
     }
 
     function resetImage() {
         const image = document.getElementById('dynamic-image');
-        image.src = '${pageContext.request.contextPath}/images/features_image.png';
+        image.src = '<c:url value="/images/features_image.png"/>';
         image.style.borderColor = "#ccc"; // 元の枠線色
     }
         
@@ -77,7 +77,7 @@
 
 <!-- サイトの最後に表示する画像枠 -->
 <div id="image-frame">
-    <img id="dynamic-image" src="${pageContext.request.contextPath}/images/features_image.png" alt="画像表示枠">
+    <img id="dynamic-image" src="<c:url value='/images/features_image.png'/>" alt="画像表示枠">
 </div>
 
         </form>

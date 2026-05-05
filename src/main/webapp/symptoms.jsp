@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Reggae+One&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/style_symptoms.css">
+    <link rel="stylesheet" type="text/css" href="<c:url value='/css/style_symptoms.css'/>">
 </head>
 <body>
 <header>
@@ -38,9 +38,9 @@
             </c:forEach>
         </div>
     </c:forEach>
-    <a href="${pageContext.request.contextPath}/">トップページに戻る</a>
+    <a href="<c:url value='/'/>">トップページに戻る</a>
     </main>
     <!-- Link the external JS -->
-    <script src="${pageContext.request.contextPath}/js/script_symptoms.js"></script>
+    <script src="<c:url value='/js/script_symptoms.js'/>"></script>
 </body>
 </html>

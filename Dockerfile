@@ -17,8 +17,8 @@ WORKDIR /usr/local/tomcat
 # Remove default apps to keep image smaller/cleaner
 RUN rm -rf webapps/*
 
-# Deploy app as /test-webapp context
-COPY --from=builder /app/target/test-webapp.war /usr/local/tomcat/webapps/test-webapp.war
+# Deploy app as ROOT context
+COPY --from=builder /app/target/test-webapp.war /usr/local/tomcat/webapps/ROOT.war
 
 EXPOSE 8080
 
