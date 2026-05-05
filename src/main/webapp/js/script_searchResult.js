@@ -35,7 +35,8 @@ function validateAndSubmit(action) {
 
     // hidden input を作成してアクションをフォームに追加
     const form = document.getElementById("allergenForm");
-    form.action = action;
+    const contextPath = form.dataset.contextPath || "";
+    form.action = `${contextPath}/${action}`;
     form.submit();
 }
 

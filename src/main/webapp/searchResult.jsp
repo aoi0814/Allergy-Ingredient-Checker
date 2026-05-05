@@ -46,7 +46,7 @@
         </section>
 
         <!-- アレルギー情報フォーム -->
-        <form id="allergenForm" method="post">
+        <form id="allergenForm" method="post" data-context-path="${pageContext.request.contextPath}">
             <input type="hidden" name="dish" value="${dish}">
             <section id="allergen-list">
                 <h2>アレルギー食材:</h2>

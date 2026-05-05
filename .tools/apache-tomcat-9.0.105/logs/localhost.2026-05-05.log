@@ -117,3 +117,10 @@ Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goo
 05-May-2026 20:06:01.742 情報 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
 05-May-2026 20:06:01.742 情報 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
 05-May-2026 20:06:01.744 情報 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@14e54a35')
+05-May-2026 20:59:01.078 情報 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+05-May-2026 20:59:01.078 情報 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+05-May-2026 20:59:04.759 情報 [main] org.apache.catalina.core.ApplicationContext.log Web application initialized.
+05-May-2026 20:59:07.054 情報 [main] org.apache.catalina.core.ApplicationContext.log Web application initialized.
+05-May-2026 20:59:07.488 情報 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+05-May-2026 20:59:07.488 情報 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+05-May-2026 20:59:07.490 情報 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2232c745')

@@ -21,7 +21,7 @@
             <p>アレルギーを持つ方やその家族、飲食店スタッフのために、料理に含まれるアレルギー食材を確認し、代替案やアレルギー症状を簡単にチェックできます。</p>
             <p><strong>使い方:</strong> 以下のフォームに料理名を入力して、検索してください。</p>
         </section>
-        <form action="search" method="post">
+        <form action="<c:url value='/search'/>" method="post">
             <label for="dish">料理名を入力してください:</label>
             <input type="text" id="dish" name="dish" placeholder="例: カレーライス,うどん,アイスクリーム,トースト,天ぷら,ドーナツ,チョコレートケーキ,しゃぶしゃぶ,シェイク,クラムチャウダー,お好み焼き,ラーメン,モンブラン,ピザ,パン,ハンバーガー,トースト" required>
             <input type="submit" value="検索">

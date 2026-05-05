@@ -296,3 +296,73 @@
 05-May-2026 20:06:01.918 情報 [main] org.apache.catalina.startup.Catalina.start サーバーの起動 [4202] ミリ秒
 05-May-2026 20:06:14.198 警告 [http-nio-8080-exec-9] org.openqa.selenium.manager.SeleniumManager.lambda$runCommand$1 The chromedriver version (131.0.6778.85) detected in PATH at chromedriver.EXE might not be compatible with the detected chrome version (147.0.7727.138); currently, chromedriver 147.0.7727.117 is recommended for chrome 147.*, so it is advised to delete the driver in PATH and retry
 05-May-2026 20:07:02.693 警告 [http-nio-8080-exec-8] org.openqa.selenium.manager.SeleniumManager.lambda$runCommand$1 The chromedriver version (131.0.6778.85) detected in PATH at chromedriver.EXE might not be compatible with the detected chrome version (147.0.7727.138); currently, chromedriver 147.0.7727.117 is recommended for chrome 147.*, so it is advised to delete the driver in PATH and retry
+05-May-2026 20:59:00.974 情報 [main] org.apache.catalina.core.StandardServer.await 有効なシャットダウンコマンドがシャットダウンポート経由で受信されました。 サーバーインスタンスを停止します。
+05-May-2026 20:59:00.977 情報 [main] org.apache.coyote.AbstractProtocol.pause ProtocolHandler ["http-nio-8080"] を一時停止します。
+05-May-2026 20:59:01.056 情報 [main] org.apache.catalina.core.StandardService.stopInternal サービス [Catalina] を停止します
+05-May-2026 20:59:01.092 警告 [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads Webアプリケーション [test-webapp] は [CompletableFutureDelayScheduler] という名前のスレッドを開始したようですが、停止に失敗しました。これはメモリリークを引き起こす可能性が非常に高いです。スレッドのスタックトレース: 
+ java.base@17.0.18/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.18/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.18/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.18/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+ java.base@17.0.18/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+ java.base@17.0.18/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+ java.base@17.0.18/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.18/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.18/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.18/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.18/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.18/java.lang.Thread.run(Thread.java:840)
+05-May-2026 20:59:01.100 情報 [main] org.apache.coyote.AbstractProtocol.stop ProtocolHandler ["http-nio-8080"]の停止中
+05-May-2026 20:59:01.110 情報 [main] org.apache.coyote.AbstractProtocol.destroy ProtocolHandler ["http-nio-8080"] を破棄します。
+05-May-2026 20:59:02.243 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log Serverのバージョン名:     Apache Tomcat/9.0.105
+05-May-2026 20:59:02.247 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log Server ビルド:            May 7 2025 18:36:02 UTC
+05-May-2026 20:59:02.247 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log サーバーのバージョン番号: 9.0.105.0
+05-May-2026 20:59:02.247 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log OS 名:                    Windows 11
+05-May-2026 20:59:02.247 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log OS バージョン:            10.0
+05-May-2026 20:59:02.247 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log アーキテクチャ:           amd64
+05-May-2026 20:59:02.248 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot
+05-May-2026 20:59:02.248 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM バージョン:           17.0.18+8
+05-May-2026 20:59:02.248 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM ベンダ:               Eclipse Adoptium
+05-May-2026 20:59:02.248 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:            C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105
+05-May-2026 20:59:02.249 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:            C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105
+05-May-2026 20:59:02.257 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.lang=ALL-UNNAMED
+05-May-2026 20:59:02.257 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+05-May-2026 20:59:02.258 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+05-May-2026 20:59:02.258 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.io=ALL-UNNAMED
+05-May-2026 20:59:02.258 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.util=ALL-UNNAMED
+05-May-2026 20:59:02.258 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-May-2026 20:59:02.258 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-May-2026 20:59:02.258 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.util.logging.config.file=C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\conf\logging.properties
+05-May-2026 20:59:02.259 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-May-2026 20:59:02.259 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djdk.tls.ephemeralDHKeySize=2048
+05-May-2026 20:59:02.259 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-May-2026 20:59:02.259 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dsun.io.useCanonCaches=false
+05-May-2026 20:59:02.259 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dignore.endorsed.dirs=
+05-May-2026 20:59:02.259 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dcatalina.base=C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105
+05-May-2026 20:59:02.260 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dcatalina.home=C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105
+05-May-2026 20:59:02.260 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.io.tmpdir=C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\temp
+05-May-2026 20:59:02.264 情報 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APRバージョン[1.7.4]を使用してAPRベースのApache Tomcatネイティブライブラリ[1.3.1]をロードしました。
+05-May-2026 20:59:02.264 情報 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR機能: IPv6 [true]、sendfile [true]、受け入れフィルタ [false]、ランダム [true]、UDS [true]
+05-May-2026 20:59:02.264 情報 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL設定：useAprConnector [false]、useOpenSSL [true]
+05-May-2026 20:59:02.268 情報 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSLは [OpenSSL 3.0.14 4 Jun 2024] を正常に初期化しました
+05-May-2026 20:59:02.436 情報 [main] org.apache.coyote.AbstractProtocol.init プロトコルハンドラ ["http-nio-8080"] を初期化します。
+05-May-2026 20:59:02.461 情報 [main] org.apache.catalina.startup.Catalina.load サーバーの初期化 [386] ミリ秒
+05-May-2026 20:59:02.538 情報 [main] org.apache.catalina.core.StandardService.startInternal サービス [Catalina] を起動します
+05-May-2026 20:59:02.538 情報 [main] org.apache.catalina.core.StandardEngine.startInternal サーブレットエンジンの起動：[Apache Tomcat/9.0.105]
+05-May-2026 20:59:02.570 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\ROOT.war] を配備します
+05-May-2026 20:59:04.677 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARでTLDをスキャンしましたが、TLDが含まれていませんでした。スキャンしたもののTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が短縮されます。
+05-May-2026 20:59:04.801 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\ROOT.war] の配備は [2,230] ミリ秒で完了しました
+05-May-2026 20:59:04.803 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\test-webapp.war] を配備します
+05-May-2026 20:59:04.807 情報 [main] org.apache.catalina.startup.ExpandWar.expand 関連付けられた WAR ファイルと最終更新日時の異なる展開先ディレクトリ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\test-webapp] が見つかりました。削除します。
+05-May-2026 20:59:06.992 情報 [main] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARでTLDをスキャンしましたが、TLDが含まれていませんでした。スキャンしたもののTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が短縮されます。
+05-May-2026 20:59:07.059 情報 [main] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\test-webapp.war] の配備は [2,256] ミリ秒で完了しました
+05-May-2026 20:59:07.061 情報 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web アプリケーションディレクトリ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\docs] を配備します
+05-May-2026 20:59:07.098 情報 [main] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\docs] の Web アプリケーションの配備は [36] ミリ秒で完了しました。
+05-May-2026 20:59:07.099 情報 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web アプリケーションディレクトリ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\examples] を配備します
+05-May-2026 20:59:07.507 情報 [main] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\examples] の Web アプリケーションの配備は [407] ミリ秒で完了しました。
+05-May-2026 20:59:07.508 情報 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web アプリケーションディレクトリ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\host-manager] を配備します
+05-May-2026 20:59:07.562 情報 [main] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\host-manager] の Web アプリケーションの配備は [54] ミリ秒で完了しました。
+05-May-2026 20:59:07.563 情報 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web アプリケーションディレクトリ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\manager] を配備します
+05-May-2026 20:59:07.610 情報 [main] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [C:\Users\Public\folder\Attachments\test2\.tools\apache-tomcat-9.0.105\webapps\manager] の Web アプリケーションの配備は [47] ミリ秒で完了しました。
+05-May-2026 20:59:07.616 情報 [main] org.apache.coyote.AbstractProtocol.start プロトコルハンドラー ["http-nio-8080"] を開始しました。
+05-May-2026 20:59:07.675 情報 [main] org.apache.catalina.startup.Catalina.start サーバーの起動 [5212] ミリ秒
